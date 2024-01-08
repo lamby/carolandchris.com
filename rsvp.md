@@ -133,3 +133,9 @@ layout: default
 <p>
   Please email <em>rsvp@carolandchris.com</em>
 </p>
+
+<h2>RSVP</h2>
+
+<p>
+  <a href="https://forms.gle/Y7j9crEbDEVi1MoGA">RSVP here</a>
+</p>
