@@ -126,17 +126,15 @@ layout: default
 
 <h2>Dress</h2>
 <p>
-  Black tie
-</p>
-
-<h2>Contact</h2>
-
+  Black tie attire. 
 <p>
-  Please visit  <a href="https://forms.gle/Y7j9crEbDEVi1MoGA">this linke</a> to RSVP.
+   Tuxedos and floor-length gowns, please. 
+</p>
 </p>
 
 <h2>RSVP</h2>
 
 <p>
-  <a href="https://forms.gle/Y7j9crEbDEVi1MoGA">RSVP here</a>
+
+  Please visit  <a href="https://forms.gle/Y7j9crEbDEVi1MoGA">this link</a> to RSVP.
 </p>
