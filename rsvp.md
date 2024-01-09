@@ -104,7 +104,7 @@ layout: default
 
 <h2 class="where">
   St. Pancras Renaissance Hotel<br>
-  <span>London, England</span>
+  <span>London, England, NW1 2AR</span>
 </h2>
 
 <hr>
@@ -119,7 +119,9 @@ layout: default
 <h2>Accommodation</h2>
 <p>
   Guest accommodations are reserved <em>at the</em> St. Pancras Renaissance
-  Hotel, Euston Road, London, NW1 2AR. Please use <em>the</em> code '<code>ZS7</code>' on Marriott.com in the 
+  Hotel, Euston Road, London, NW1 2AR. 
+  <p>
+     Please use <em>the</em> code '<code>ZS7</code>' on Marriott.com in the 
    corporate/promo code section of the website when you check availability <em>to</em> access
   <em>a</em> discounted rate.
 </p>
@@ -128,7 +130,9 @@ layout: default
 <p>
   Black tie attire. 
 <p>
-   Tuxedos and floor-length gowns, please. 
+   Tuxedos and floor-length gowns.
+   <p>
+   If you feel inspired, art nouveau, gilded age, late Victorian, or Edwardian fashion accents are encouraged as part of your attire. 
 </p>
 </p>
 
