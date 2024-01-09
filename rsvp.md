@@ -111,16 +111,17 @@ layout: default
 
 <h2>Reception</h2>
 <p>
-  <em>A</em> ceremony <em>will be</em> followed <em>by a</em> cocktail reception, dinner <em>and</em> dancing.
+  <em>A</em> ceremony <em>will be</em> followed <em>by a</em> cocktail reception, dinner <em>and</em> further celebrations.
   Dinner will <em>be a</em> three course meal with <em>a</em> choice <em>of</em> starter <em>and</em> main course.
-  Regrettably <em>we</em> <em>are</em> unable <em>to</em> accommodate children
+  Regrettably <em>we</em> <em>are</em> unable <em>to</em> accommodate children.
 </p>
 
 <h2>Accommodation</h2>
 <p>
   Guest accommodations are reserved <em>at the</em> St. Pancras Renaissance
-  Hotel, Euston Road, London, NW1 2AR. Please use <em>the</em> code '<code>AAA</code>' <em>to</em> access
-  <em>a</em> discounted rate
+  Hotel, Euston Road, London, NW1 2AR. Please use <em>the</em> code '<code>ZS7</code>' on Marriott.com in the 
+   corporate/promo code section of the website when you check availability <em>to</em> access
+  <em>a</em> discounted rate.
 </p>
 
 <h2>Dress</h2>
@@ -131,7 +132,7 @@ layout: default
 <h2>Contact</h2>
 
 <p>
-  Please email <em>rsvp@carolandchris.com</em>
+  Please visit <em>[rsvp@carolandchris.com](https://forms.gle/CouCphDpegyrZxUp8)</em> to RSVP.
 </p>
 
 <h2>RSVP</h2>
