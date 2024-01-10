@@ -126,6 +126,9 @@ layout: default
   <em>a</em> discounted rate.
 </p>
 
+<h2>Registry</h2>
+<p>We are registered at </p>
+
 <h2>Dress</h2>
 <p>
   Black tie attire. 
