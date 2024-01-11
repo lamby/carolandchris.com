@@ -118,7 +118,7 @@ layout: default
 
 <h2>Accommodation</h2>
 <p>
-  Guest accommodations are reserved <em>at the</em> St. Pancras Renaissance
+  Guest accommodations are available for you to book <em>at the</em> St. Pancras Renaissance
   Hotel, Euston Road, London, NW1 2AR. 
   <p>
      Please use <em>the</em> code '<code>ZS7</code>' on Marriott.com in the 
