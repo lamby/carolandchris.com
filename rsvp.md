@@ -127,7 +127,7 @@ layout: default
 </p>
 
 <h2>Registry</h2>
-<p>We are registered at </p>
+<p>Information will be sent closer to our wedding date for those who would like to get us something from our registry. </p>
 
 <h2>Dress</h2>
 <p>
