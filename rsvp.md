@@ -15,10 +15,11 @@ layout: default
       body {
         font-family: 'Libre Baskerville', serif;
         background-color: #eceae1;
+        color: #455160;
       }
 
       .wrapper {
-        width: 480px;
+        width: 620px;
         text-align: center;
         margin: auto;
         margin-top: 180px;
@@ -40,6 +41,7 @@ layout: default
 
       img.header {
           max-width: 80%;
+          max-height: 320px;
       }
 
       p {
@@ -59,7 +61,7 @@ layout: default
         margin-bottom: 50px;
         line-height: 180%;
         font-weight: normal;
-        letter-spacing: 5px;
+        letter-spacing: 1px;
       }
 
       h1 span {
@@ -99,7 +101,7 @@ layout: default
 <h1>
   Carol Ann Smith<br>
   <span>&amp;</span><br>
-  Christopher Lamb
+  Christopher Glasson Lamb
 </h1>
 
 <p class="request">
