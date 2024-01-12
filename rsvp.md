@@ -36,7 +36,10 @@ layout: default
 
       .wrapper img {
         margin: auto;
-        max-width: 100%;
+      }
+
+      img.header {
+          max-width: 80%;
       }
 
       p {
@@ -91,7 +94,7 @@ layout: default
 
 <div class="wrapper">
 
-<img src="/assets/image.png?{{ site.github.build_revision }}">
+<img class="header" src="/assets/image.png?{{ site.github.build_revision }}">
 
 <h1>
   Carol Ann Smith<br>
