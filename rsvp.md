@@ -21,7 +21,7 @@ layout: default
         width: 480px;
         text-align: center;
         margin: auto;
-        margin-top: 300px;
+        margin-top: 180px;
 
         text-transform: uppercase;
       }
@@ -36,6 +36,7 @@ layout: default
 
       .wrapper img {
         margin: auto;
+        max-width: 100%;
       }
 
       p {
@@ -51,6 +52,7 @@ layout: default
       h1 {
         font-size: 28px;
         text-align: center;
+        margin-top: 50px;
         margin-bottom: 50px;
         line-height: 180%;
         font-weight: normal;
@@ -88,6 +90,8 @@ layout: default
 <body>
 
 <div class="wrapper">
+
+<img src="/assets/image.png?{{ site.github.build_revision }}">
 
 <h1>
   Carol Ann Smith<br>
