@@ -212,13 +212,13 @@ h2 span {
 </p>
 
 <p class="text-center images">
+   <a href="/assets/rsvp/3.jpg?{{ site.github.build_revision }}"><img src="/assets/rsvp/3.thumbnail.jpg?{{ site.github.build_revision }}"></a>
    <a href="/assets/rsvp/1.jpg?{{ site.github.build_revision }}"><img src="/assets/rsvp/1.thumbnail.jpg?{{ site.github.build_revision }}"></a>
    <a href="/assets/rsvp/9.jpg?{{ site.github.build_revision }}"><img src="/assets/rsvp/9.thumbnail.jpg?{{ site.github.build_revision }}"></a>
-   <a href="/assets/rsvp/2.jpg?{{ site.github.build_revision }}"><img src="/assets/rsvp/2.thumbnail.jpg?{{ site.github.build_revision }}"></a>
    <br>
-   <a href="/assets/rsvp/3.jpg?{{ site.github.build_revision }}"><img src="/assets/rsvp/3.thumbnail.jpg?{{ site.github.build_revision }}"></a>
-   <a href="/assets/rsvp/6.jpg?{{ site.github.build_revision }}"><img src="/assets/rsvp/6.thumbnail.jpg?{{ site.github.build_revision }}"></a>
+   <a href="/assets/rsvp/2.jpg?{{ site.github.build_revision }}"><img src="/assets/rsvp/2.thumbnail.jpg?{{ site.github.build_revision }}"></a>
    <a href="/assets/rsvp/5.jpg?{{ site.github.build_revision }}"><img src="/assets/rsvp/5.thumbnail.jpg?{{ site.github.build_revision }}"></a>
+   <a href="/assets/rsvp/6.jpg?{{ site.github.build_revision }}"><img src="/assets/rsvp/6.thumbnail.jpg?{{ site.github.build_revision }}"></a>
    <br>
    <a href="/assets/rsvp/8.jpg?{{ site.github.build_revision }}"><img src="/assets/rsvp/8.thumbnail.jpg?{{ site.github.build_revision }}"></a>
    <a href="/assets/rsvp/7.jpg?{{ site.github.build_revision }}"><img src="/assets/rsvp/7.thumbnail.jpg?{{ site.github.build_revision }}"></a>
@@ -247,16 +247,14 @@ h2 span {
   <em>To</em> RSVP, <em>please</em> <a href="https://forms.gle/Y7j9crEbDEVi1MoGA" target="_top">follow this link</a>.
 </p>
 
-<hr>
-
 <br>
 <br>
 <br>
 <br>
 
-<p>
+<p class="text-center">
   <em>
-    If you have any questions, please email: <small>rsvp@carolandchris.com</small>
+    If you have any questions, please email <small>rsvp@carolandchris.com</small>
   </em>
 </p>
 
