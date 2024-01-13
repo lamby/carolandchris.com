@@ -8,6 +8,8 @@ layout: default
 <meta http-equiv="Pragma" content="no-cache" />
 <meta http-equiv="Expires" content="0" />
 
+<title>Carol Ann Smith &amp; Christopher Glasson Lamb …</title>
+
 
    <link rel="stylesheet"
           href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400">
