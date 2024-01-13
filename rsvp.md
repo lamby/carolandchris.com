@@ -226,7 +226,7 @@ h2 span {
 </p>
 
 <p class="text-center">
-    <em>For more information about this building, please visit:</em><br>
+    <em>For more information about this building, please visit</em><br>
   &nbsp;<a href="http://www.roydenstock.com/history.php">[1]</a>
   &nbsp;<a href="https://gilbertscott.org/st-pancras-hotel-train-station/">[2]</a>
   &nbsp;<a href="https://www.luxurylifestylemag.co.uk/travel/hotel-review-st-pancras-renaissance-hotel-london-kings-cross-in-london/">[3]</a>
