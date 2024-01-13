@@ -167,7 +167,7 @@ h2 span {
 
 <hr>
 
-<h2>Accommodations</h2>
+<h2>Accommodation</h2>
 <p>
   Accommodation <em>is</em> currently available for you <em>to</em> book <em>at the</em> S<sup>t</sup>. Pancras Renaissance Hotel.
 </p>
