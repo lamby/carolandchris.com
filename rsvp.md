@@ -21,13 +21,20 @@ body {
 }
 
 .wrapper {
-  width: 620px;
   text-align: center;
   margin: auto;
-  margin-top: 180px;
+  margin-top: 160px;
+  padding-left: 20px;
+  padding-right: 20px;
 
   text-transform: uppercase;
   margin-bottom: 100px;
+}
+
+@media (min-width: 768px) {
+    .wrapper {
+      width: 620px;
+    }
 }
 
 small {
@@ -55,6 +62,11 @@ a, u {
   border-bottom: 1px dotted grey;
 }
 
+sup {
+    font-size: 60%;
+  text-transform: none;
+}
+
 hr {
     border: 0;
     height: 20px;
@@ -68,7 +80,6 @@ hr {
 }
 
 img.header {
-  max-width: 80%;
   max-height: 320px;
 }
 
@@ -89,8 +100,8 @@ p.text-center {
 h1 {
   font-size: 28px;
   text-align: center;
-  margin-top: 65px;
-  margin-bottom: 50px;
+  margin-top: 70px;
+  margin-bottom: 55px;
   line-height: 180%;
   font-weight: normal;
   letter-spacing: 1px;
@@ -177,18 +188,11 @@ h2 span {
 </p>
 
 <p>
-  However, other lodgings <em>on</em> <em>the</em> Euston Road include <em>the</em> Great Northern, <em>the</em> Standard and <em>the</em> Pullman. Budget-conscious travellers may wish <em>to</em> enquire at <em>the</em> Premier Inn.
+  However, other lodgings <em>on</em> <em>the</em> Euston Road include <em>the</em> Great Northern, <em>the</em> Standard and <em>the</em> Pullman. Budget-conscious travellers may wish <em>to</em> enquire <em>at</em> <em>the</em> Premier Inn.
 </p>
 
 <p>
   Guests <em>are</em> encouraged <em>to</em> avail themselves <em>of</em> <em>the</em> code &lsquo;<code>ZS7</code>&rsquo; on <small>Marriott.com</small> in the corporate/promotional section <em>of</em> their website <em>when</em> booking <em>to</em> access <em>a</em> discounted rate with our complements.
-</p>
-
-<hr>
-
-<h2>Registry</h2>
-<p>
-  Information regarding <em>an</em> optional registry <em>will</em> <em>be</em> sent closer <em>to</em> <em>the</em> wedding date.
 </p>
 
 <hr>
@@ -212,8 +216,8 @@ h2 span {
 </p>
 
 <p class="text-center images">
-   <a href="/assets/rsvp/3.jpg?{{ site.github.build_revision }}"><img src="/assets/rsvp/3.thumbnail.jpg?{{ site.github.build_revision }}"></a>
    <a href="/assets/rsvp/1.jpg?{{ site.github.build_revision }}"><img src="/assets/rsvp/1.thumbnail.jpg?{{ site.github.build_revision }}"></a>
+   <a href="/assets/rsvp/3.jpg?{{ site.github.build_revision }}"><img src="/assets/rsvp/3.thumbnail.jpg?{{ site.github.build_revision }}"></a>
    <a href="/assets/rsvp/9.jpg?{{ site.github.build_revision }}"><img src="/assets/rsvp/9.thumbnail.jpg?{{ site.github.build_revision }}"></a>
    <br>
    <a href="/assets/rsvp/2.jpg?{{ site.github.build_revision }}"><img src="/assets/rsvp/2.thumbnail.jpg?{{ site.github.build_revision }}"></a>
@@ -241,10 +245,18 @@ h2 span {
 
 <hr>
 
+<h2>Registry</h2>
+<p>
+  Information regarding <em>an</em> optional registry <em>will</em> <em>be</em> sent closer <em>to</em> <em>the</em> wedding date.
+</p>
+
+<hr>
+
+
 <h2>RSVP</h2>
 
 <p class="text-center">
-  <em>To</em> RSVP, <em>please</em> <a href="https://forms.gle/Y7j9crEbDEVi1MoGA" target="_top">follow this link</a>.
+  <em>To</em> RSVP, <em>please</em> <em>follow</em> <a href="https://forms.gle/Y7j9crEbDEVi1MoGA" target="_top"><strong>this link</strong></a>.
 </p>
 
 <br>
