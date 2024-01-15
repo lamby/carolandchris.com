@@ -85,7 +85,7 @@ img.header {
 
 p {
   text-align: justify;
-  line-height: 180%;
+  line-height: 190%;
   letter-spacing: 2px;
 }
 
@@ -163,7 +163,7 @@ h2 span {
 </p>
 
 <h2 class="where">
-  St. Pancras Renaissance Hotel<br />
+  S<sup>t.</sup> Pancras Renaissance Hotel<br />
   <span>London, England, NW1 2AR</span>
 </h2>
 
@@ -251,7 +251,6 @@ h2 span {
 </p>
 
 <hr>
-
 
 <h2>RSVP</h2>
 
