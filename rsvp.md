@@ -212,7 +212,7 @@ h2 span {
 <h2>Venue</h2>
 
 <p>
-  <em>The</em> Gothic Revival S<sup>t</sup>. Pancras Renaissance Hotel &mdash; formerly <em>the</em> &lsquo;Midland Grand&rsquo;, &mdash; <em>was</em> opened <em>on</em> 5<sup>th</sup> May 1873.
+  <em>The</em> Gothic Revival S<sup>t</sup>. Pancras Renaissance Hotel &mdash; formerly <em>the</em> &lsquo;Midland Grand&rsquo; &mdash; <em>was</em> opened <em>on</em> 5<sup>th</sup> May 1873.
 </p>
 
 <p class="text-center images">
