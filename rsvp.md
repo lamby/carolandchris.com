@@ -229,6 +229,10 @@ h2 span {
    <a href="/assets/rsvp/4.jpg?{{ site.github.build_revision }}"><img src="/assets/rsvp/4.thumbnail.jpg?{{ site.github.build_revision }}"></a>
 </p>
 
+<p>
+  Although <em>the</em> venue <em>is</em> straightforward <em>to</em> reach <em>from</em> <em>all</em> London airports, underground <em>and</em> overground train lines, <em>if</em> you require <em>any</em> travel advice, please <em>do</em> contact us.
+</p>
+
 <p class="text-center">
     <em>For more information about this building, please visit</em><br>
   &nbsp;<a href="http://www.roydenstock.com/history.php">[1]</a>
