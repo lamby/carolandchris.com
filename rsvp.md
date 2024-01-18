@@ -11,6 +11,7 @@ layout: default
 <title>Carol Ann Smith &amp; Christopher Glasson Lamb …</title>
 
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400" />
+text-transform: inherit;
 
 <style>
 
@@ -121,6 +122,10 @@ h1 span {
   line-height: 35px;
 }
 
+.where a {
+    text-transform: inherit;
+}
+
 em {
   text-transform: none;
   letter-spacing: 1px;
@@ -164,7 +169,7 @@ h2 span {
 
 <h2 class="where">
   S<sup>t.</sup> Pancras Renaissance Hotel<br />
-  <span>London, England, NW1 2AR</span>
+  <span><a href="https://maps.app.goo.gl/TgGN1BTL1qmNa2GU6">London, England, NW1 2AR</a></span>
 </h2>
 
 <hr>
@@ -227,6 +232,14 @@ h2 span {
    <a href="/assets/rsvp/8.jpg?{{ site.github.build_revision }}"><img src="/assets/rsvp/8.thumbnail.jpg?{{ site.github.build_revision }}"></a>
    <a href="/assets/rsvp/7.jpg?{{ site.github.build_revision }}"><img src="/assets/rsvp/7.thumbnail.jpg?{{ site.github.build_revision }}"></a>
    <a href="/assets/rsvp/4.jpg?{{ site.github.build_revision }}"><img src="/assets/rsvp/4.thumbnail.jpg?{{ site.github.build_revision }}"></a>
+</p>
+
+<p>
+  Although <em>the</em> venue <em>is</em> straightforward <em>to</em> reach <em>from</em> <em>all</em> London airports, underground <em>and</em> overground train lines, <em>if</em> you require <em>any</em> travel advice, please <em>do</em> contact us.
+</p>
+
+<p class="text-center">
+  <small><a href="https://maps.app.goo.gl/TgGN1BTL1qmNa2GU6">S<sup>t.</sup> Pancras Renaissance Hotel, London, NW1 2AR</a></small>
 </p>
 
 <p>
