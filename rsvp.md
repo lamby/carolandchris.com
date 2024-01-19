@@ -189,7 +189,7 @@ h2 span {
 </p>
 
 <p>
-  Due <em>to</em> <em>the</em> proximity <em>to</em> <em>the</em> event, <em>we</em> highly recommend staying <em>at</em> <em>the</em> S<sup>t</sup>. Pancras Renaissance.
+  Due <em>to</em> <em>the</em> natural proximity <em>to</em> <em>the</em> event, <em>we</em> highly recommend staying <em>at</em> <em>the</em> S<sup>t</sup>. Pancras Renaissance.
 </p>
 
 <p>
@@ -197,7 +197,7 @@ h2 span {
 </p>
 
 <p>
-  Guests <em>are</em> encouraged <em>to</em> avail themselves <em>of</em> <em>the</em> code &lsquo;<code>ZS7</code>&rsquo; on <small>Marriott.com</small> in the corporate/promotional section <em>of</em> their website <em>when</em> booking <em>to</em> access <em>a</em> discounted rate with our complements.
+  Guests <em>are</em> entreated <em>to</em> avail themselves <em>of</em> <em>the</em> code &lsquo;<code>ZS7</code>&rsquo; on <small>Marriott.com</small> in the corporate/promotional section <em>of</em> their website <em>when</em> booking <em>to</em> access <em>a</em> discounted rate with our complements.
 </p>
 
 <hr>
@@ -209,7 +209,7 @@ h2 span {
 </p>
 
 <p>
-  However, guests feeling <em>so</em> inspired <em>are</em> encouraged <em>to</em> incorporate discriminating art nouveau, gilded age, late Victorian <em>or</em> Edwardian fashion accents <em>into</em> their attire.
+  Guests feeling <em>so</em> inspired <em>are</em> encouraged <em>to</em> incorporate discriminating art nouveau, gilded age, late Victorian <em>or</em> Edwardian fashion accents <em>into</em> their attire.
 </p>
 
 <hr>
@@ -234,31 +234,30 @@ h2 span {
    <a href="/assets/rsvp/4.jpg?{{ site.github.build_revision }}"><img src="/assets/rsvp/4.thumbnail.jpg?{{ site.github.build_revision }}"></a>
 </p>
 
-<p>
-  Although <em>the</em> venue <em>is</em> straightforward <em>to</em> reach <em>from</em> <em>all</em> London airports, underground <em>and</em> overground train lines, <em>if</em> you require <em>any</em> travel advice, please <em>do</em> contact us.
-</p>
-
 <p class="text-center">
-  <small><a href="https://maps.app.goo.gl/TgGN1BTL1qmNa2GU6">S<sup>t.</sup> Pancras Renaissance Hotel, London, NW1 2AR</a></small>
+  <small>The <a href="https://maps.app.goo.gl/TgGN1BTL1qmNa2GU6">S<sup>t.</sup> Pancras Renaissance Hotel, London, NW1 2AR</a></small>
 </p>
 
 <p>
-  Although <em>the</em> venue <em>is</em> straightforward <em>to</em> reach <em>from</em> <em>all</em> London airports, underground <em>and</em> overground train lines, <em>if</em> you require <em>any</em> travel advice, please <em>do</em> contact us.
+  Although <em>the</em> venue <em>is</em> straightforward <em>to</em> reach <em>from</em> <em>all</em> London airports, underground <em>and</em> overground trains, <em>if</em> you require <em>any</em> travel advice, please <em>do</em> contact us.
 </p>
 
 <p class="text-center">
-    <em>For more information about this building, please visit</em><br>
-  &nbsp;<a href="http://www.roydenstock.com/history.php">[1]</a>
-  &nbsp;<a href="https://gilbertscott.org/st-pancras-hotel-train-station/">[2]</a>
-  &nbsp;<a href="https://www.luxurylifestylemag.co.uk/travel/hotel-review-st-pancras-renaissance-hotel-london-kings-cross-in-london/">[3]</a>
-  &nbsp;<a href="https://www.theguardian.com/travel/2011/may/06/london-st-pancras-renaissance-hotel-review">[4]</a>
-  &nbsp;<a href="https://flickr.com/search/?text=st+pancras+renaissance">[5]</a>
-  &nbsp;<a href="https://www.urban75.org/blog/london-st-pancras-station-15-years-ago-photos-of-the-semi-derelict-midland-grand-hotel-from-june-2003/">[6]</a>
-  &nbsp;<a href="https://www.youtube.com/watch?v=lHv4T7234cc">[7]</a>
-  &nbsp;<a href="https://en.wikipedia.org/wiki/St_Pancras_Renaissance_London_Hotel">[8]</a>
-  &nbsp;<a href="https://anitachowdry.blog/2012/03/30/painted-rooms-and-victorian-gothic-at-st-pancras-station/">[9]</a>
-  &nbsp;<a href="https://www.layersoflondon.org/map/records/the-grand-staircase-inside-the-midland-grand-hotel-aka-the-st-pancras-renaissance-hotel">[10]</a>
+    <em>For more information about the venue, please visit:</em><br>
+  &nbsp;<a href="https://www.marriott.com/en-us/hotels/lonpr-st-pancras-renaissance-hotel-london/overview/">[1]</a>
+  &nbsp;<a href="http://www.roydenstock.com/history.php">[2]</a>
+  &nbsp;<a href="https://gilbertscott.org/st-pancras-hotel-train-station/">[3]</a>
+  &nbsp;<a href="https://www.luxurylifestylemag.co.uk/travel/hotel-review-st-pancras-renaissance-hotel-london-kings-cross-in-london/">[4]</a>
+  &nbsp;<a href="https://www.theguardian.com/travel/2011/may/06/london-st-pancras-renaissance-hotel-review">[5]</a>
+  &nbsp;<a href="https://flickr.com/search/?text=st+pancras+renaissance">[6]</a>
+  &nbsp;<a href="https://www.urban75.org/blog/london-st-pancras-station-15-years-ago-photos-of-the-semi-derelict-midland-grand-hotel-from-june-2003/">[7]</a>
+  &nbsp;<a href="https://www.youtube.com/watch?v=lHv4T7234cc">[8]</a>
+  &nbsp;<a href="https://en.wikipedia.org/wiki/St_Pancras_Renaissance_London_Hotel">[9]</a>
+  &nbsp;<a href="https://anitachowdry.blog/2012/03/30/painted-rooms-and-victorian-gothic-at-st-pancras-station/">[10]</a>
+  &nbsp;<a href="https://www.layersoflondon.org/map/records/the-grand-staircase-inside-the-midland-grand-hotel-aka-the-st-pancras-renaissance-hotel">[11]</a>
 </p>
+
+<p class="text-center">Carriages <em>at</em> midnight.</p>
 
 <hr>
 
