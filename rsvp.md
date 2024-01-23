@@ -11,7 +11,6 @@ layout: default
 <title>Carol Ann Smith &amp; Christopher Glasson Lamb …</title>
 
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400" />
-text-transform: inherit;
 
 <style>
 
