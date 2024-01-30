@@ -184,7 +184,7 @@ span.address {
 
 <hr>
 
-<h2>Reception</h2>
+<h2 id="reception">Reception</h2>
 <p>
   <em>A</em> ceremony <em>will be</em> followed <em>by a</em> cocktail reception, dinner <em>and</em> further celebrations.
   Dinner will <em>be a</em> three course meal <em>with a</em> choice <em>of</em> starter <em>and</em> main course.
@@ -195,7 +195,7 @@ span.address {
 
 <hr>
 
-<h2>Accommodation</h2>
+<h2 id="accommodation">Accommodation</h2>
 <p>
   Accommodation <em>is</em> currently available for you <em>to</em> book <em>at the</em> S<sup>t</sup>. Pancras Renaissance Hotel.
 </p>
@@ -214,7 +214,7 @@ span.address {
 
 <hr>
 
-<h2>Dress</h2>
+<h2 id="dress">Dress</h2>
 
 <p>
   <u>Strictly black tie attire</u>, <em>i.e.</em> tuxedos <em>or</em> floor-length gowns.
@@ -235,7 +235,7 @@ span.address {
 
 <hr>
 
-<h2>Venue</h2>
+<h2 id="venue">Venue</h2>
 
 <p>
   <em>The</em> Gothic Revival S<sup>t</sup>. Pancras Renaissance Hotel &mdash; formerly <em>the</em> &lsquo;Midland Grand&rsquo; &mdash; <em>was</em> opened <em>on</em> 5<sup>th</sup> May 1873.
@@ -278,17 +278,16 @@ span.address {
   &nbsp;<a href="https://www.layersoflondon.org/map/records/the-grand-staircase-inside-the-midland-grand-hotel-aka-the-st-pancras-renaissance-hotel">[11]</a>
 </p>
 
-
 <hr>
 
-<h2>Registry</h2>
+<h2 id="registry">Registry</h2>
 <p>
   Information regarding <em>an</em> optional registry <em>will</em> <em>be</em> sent closer <em>to</em> <em>the</em> wedding date.
 </p>
 
 <hr>
 
-<h2>RSVP</h2>
+<h2 id="rsvp">RSVP</h2>
 
 <p class="text-center">
   <em>To</em> RSVP, <em>please</em> <em>follow</em> <a href="https://forms.gle/Y7j9crEbDEVi1MoGA" target="_top"><strong>this link</strong></a>.
