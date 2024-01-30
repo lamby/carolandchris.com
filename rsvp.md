@@ -16,8 +16,13 @@ layout: default
 
 body {
   font-family: 'Libre Baskerville', serif;
-  background-color: #f9f8f6;
-  color: #515f70;
+  background-color: #fbf8f2;
+  color: #455261;
+  -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    text-shadow:1px 1px 1px rgba(0,0,0,0.040) !important;
 }
 
 .wrapper {
@@ -143,6 +148,12 @@ h2 span {
   letter-spacing: 0px;
 }
 
+span.address {
+  font-style: italic;
+  font-size: 90%;
+  letter-spacing: 1px;
+}
+
 </style>
 
 </head>
@@ -180,6 +191,8 @@ h2 span {
   Regrettably <em>we</em> <em>are</em> unable <em>to</em> accommodate children.
 </p>
 
+<p class="text-center">Carriages <em>at</em> midnight.</p>
+
 <hr>
 
 <h2>Accommodation</h2>
@@ -188,15 +201,15 @@ h2 span {
 </p>
 
 <p>
-  Due <em>to</em> <em>the</em> natural proximity <em>to</em> <em>the</em> event, <em>we</em> highly recommend staying <em>at</em> <em>the</em> S<sup>T</sup>. Pancras Renaissance.
+  Due <em>to</em> <em>the</em> natural proximity <em>to</em> <em>the</em> event, <em>we</em> highly recommend staying <em>at</em> <em>the</em> S<sup>t</sup>. Pancras Renaissance.
 </p>
 
 <p>
-  However, <em>be</em> <em>it</em> observed <em>that</em> other lodgings <em>on</em> <em>the</em> Euston R<sup>D</sup>. include <em>the</em> Great Northern, <em>the</em> Standard and <em>the</em> Pullman. Budget-conscious travellers may wish <em>to</em> enquire <em>at</em> <em>the</em> Premier Inn.
+  However, <em>be</em> <em>it</em> observed <em>that</em> other lodgings <em>on</em> <em>the</em> Euston R<sup>d</sup>. include <em>the</em> Great Northern, <em>the</em> Standard and <em>the</em> Pullman. Budget-conscious travellers may wish <em>to</em> enquire <em>at</em> <em>the</em> Premier Inn.
 </p>
 
 <p>
-  Guests <em>are</em> furthermore entreated <em>to</em> avail themselves <em>of</em> <em>the</em> code &lsquo;<code>ZS7</code>&rsquo; on <small>Marriott.com</small> in the corporate/promotional section <em>of</em> their website <em>when</em> booking <em>to</em> access <em>a</em> discounted rate with our complements.
+  Guests <em>are</em> furthermore entreated <em>to</em> avail themselves <em>of</em> <em>the</em> code &lsquo;<code>ZS7</code>&rsquo; on <small>marriott.com</small> in the corporate/promotional section <em>of</em> their website <em>when</em> booking <em>to</em> access <em>a</em> discounted rate <em>with</em> our complements.
 </p>
 
 <hr>
@@ -211,12 +224,21 @@ h2 span {
   Guests feeling <em>so</em> inspired <em>are</em> encouraged <em>to</em> incorporate discriminating art nouveau, gilded age, late Victorian <em>or</em> Edwardian fashion accents <em>into</em> their attire.
 </p>
 
+<p>
+  <em>The</em> gentleman <em>who</em> wishes <em>to</em> secure <em>pro</em> <em>tempore</em> use <em>of</em> <em>a</em> tuxedo <em>might</em> engage
+<a href="https://moss.co.uk/">Moss Bros.</a> <span class="address">(<a href="https://www.moss.co.uk/store/202-moss-bros-high-holborn">High Holborn</a>, <a href="https://www.moss.co.uk/store/328-moss-jermyn-street">Jermyn Street</a>, <em>&amp;tc</em>)</span>,
+<a href="https://www.oliverbrown.org.uk/">Oliver Brown</a> <span class="address">(<a href="https://www.oliverbrown.org.uk/pages/jermyn-street-location">Jermyn Street</a>)</span>,
+<a href="https://nealandpalmer.com/contact-us/"><em>Neal & Palmer</em></a> <span class="address">(<a href="https://nealandpalmer.com/contact-us/">Jermyn Street</a>)</span>,
+<a href="https://buckleighoflondon.com">Buckleigh of London</a> <span class="address">(<a href="https://buckleighoflondon.com/about-us">Lower Sloan Street</a>)</span>
+<em>or</em>
+<a href="https://www.lipmanandsons.co.uk/">Lipman &amp; Sons</a> <span class="address">(<a href="https://www.lipmanandsons.co.uk/formal-classic-menswear/contact-us.html">Charing Cross Road</a>)</span>.</p>
+
 <hr>
 
 <h2>Venue</h2>
 
 <p>
-  <em>The</em> Gothic Revival S<sup>T</sup>. Pancras Renaissance Hotel &mdash; formerly <em>the</em> &lsquo;Midland Grand&rsquo; &mdash; <em>was</em> opened <em>on</em> 5<sup>th</sup> May 1873.
+  <em>The</em> Gothic Revival S<sup>t</sup>. Pancras Renaissance Hotel &mdash; formerly <em>the</em> &lsquo;Midland Grand&rsquo; &mdash; <em>was</em> opened <em>on</em> 5<sup>th</sup> May 1873.
 </p>
 
 <p class="text-center images">
@@ -256,7 +278,6 @@ h2 span {
   &nbsp;<a href="https://www.layersoflondon.org/map/records/the-grand-staircase-inside-the-midland-grand-hotel-aka-the-st-pancras-renaissance-hotel">[11]</a>
 </p>
 
-<p class="text-center">Carriages <em>at</em> midnight.</p>
 
 <hr>
 
