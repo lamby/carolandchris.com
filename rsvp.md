@@ -188,15 +188,15 @@ h2 span {
 </p>
 
 <p>
-  Due <em>to</em> <em>the</em> natural proximity <em>to</em> <em>the</em> event, <em>we</em> highly recommend staying <em>at</em> <em>the</em> S<sup>t</sup>. Pancras Renaissance.
+  Due <em>to</em> <em>the</em> natural proximity <em>to</em> <em>the</em> event, <em>we</em> highly recommend staying <em>at</em> <em>the</em> S<sup>T</sup>. Pancras Renaissance.
 </p>
 
 <p>
-  However, other lodgings <em>on</em> <em>the</em> Euston Road include <em>the</em> Great Northern, <em>the</em> Standard and <em>the</em> Pullman. Budget-conscious travellers may wish <em>to</em> enquire <em>at</em> <em>the</em> Premier Inn.
+  However, <em>be</em> <em>it</em> observed <em>that</em> other lodgings <em>on</em> <em>the</em> Euston R<sup>D</sup>. include <em>the</em> Great Northern, <em>the</em> Standard and <em>the</em> Pullman. Budget-conscious travellers may wish <em>to</em> enquire <em>at</em> <em>the</em> Premier Inn.
 </p>
 
 <p>
-  Guests <em>are</em> entreated <em>to</em> avail themselves <em>of</em> <em>the</em> code &lsquo;<code>ZS7</code>&rsquo; on <small>Marriott.com</small> in the corporate/promotional section <em>of</em> their website <em>when</em> booking <em>to</em> access <em>a</em> discounted rate with our complements.
+  Guests <em>are</em> furthermore entreated <em>to</em> avail themselves <em>of</em> <em>the</em> code &lsquo;<code>ZS7</code>&rsquo; on <small>Marriott.com</small> in the corporate/promotional section <em>of</em> their website <em>when</em> booking <em>to</em> access <em>a</em> discounted rate with our complements.
 </p>
 
 <hr>
@@ -216,7 +216,7 @@ h2 span {
 <h2>Venue</h2>
 
 <p>
-  <em>The</em> Gothic Revival S<sup>t</sup>. Pancras Renaissance Hotel &mdash; formerly <em>the</em> &lsquo;Midland Grand&rsquo; &mdash; <em>was</em> opened <em>on</em> 5<sup>th</sup> May 1873.
+  <em>The</em> Gothic Revival S<sup>T</sup>. Pancras Renaissance Hotel &mdash; formerly <em>the</em> &lsquo;Midland Grand&rsquo; &mdash; <em>was</em> opened <em>on</em> 5<sup>th</sup> May 1873.
 </p>
 
 <p class="text-center images">
