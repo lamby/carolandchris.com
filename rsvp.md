@@ -149,9 +149,11 @@ h2 span {
 }
 
 span.address {
-  font-style: italic;
-  font-size: 90%;
-  letter-spacing: 1px;
+  font-size: 70%;
+  letter-spacing: 3px;
+}
+span.address a {
+  text-transform: uppercase !important;
 }
 
 </style>
@@ -226,7 +228,7 @@ span.address {
 
 <p>
   <em>The</em> gentleman <em>who</em> wishes <em>to</em> secure <em>pro</em> <em>tempore</em> use <em>of</em> <em>a</em> tuxedo <em>might</em> engage
-<a href="https://moss.co.uk/">Moss Bros.</a> <span class="address">(<a href="https://www.moss.co.uk/store/202-moss-bros-high-holborn">High Holborn</a>, <a href="https://www.moss.co.uk/store/328-moss-jermyn-street">Jermyn Street</a>, <em>&amp;tc</em>)</span>,
+<a href="https://moss.co.uk/">Moss Bros</a> <span class="address">(<a href="https://www.moss.co.uk/store/202-moss-bros-high-holborn">High Holborn</a>, <a href="https://www.moss.co.uk/store/328-moss-jermyn-street">Jermyn Street</a>, <em>&amp;tc</em>.)</span>,
 <a href="https://www.oliverbrown.org.uk/">Oliver Brown</a> <span class="address">(<a href="https://www.oliverbrown.org.uk/pages/jermyn-street-location">Jermyn Street</a>)</span>,
 <a href="https://nealandpalmer.com/contact-us/"><em>Neal & Palmer</em></a> <span class="address">(<a href="https://nealandpalmer.com/contact-us/">Jermyn Street</a>)</span>,
 <a href="https://buckleighoflondon.com">Buckleigh of London</a> <span class="address">(<a href="https://buckleighoflondon.com/about-us">Lower Sloan Street</a>)</span>
