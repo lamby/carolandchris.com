@@ -211,7 +211,7 @@ span.address a {
 </p>
 
 <p>
-  Guests <em>are</em> furthermore entreated <em>to</em> avail themselves <em>of</em> <em>the</em> code &lsquo;<code>ZS7</code>&rsquo; on <small>marriott.com</small> in the corporate/promotional section <em>of</em> their website <em>when</em> booking <em>to</em> access <em>a</em> discounted rate <em>with</em> our complements.
+  Guests <em>are</em> entreated <em>to</em> avail themselves <em>of</em> <em>the</em> code &lsquo;<code>ZS7</code>&rsquo; on <small>marriott.com</small> in the corporate/promotional section <em>of</em> their website <em>when</em> booking <em>to</em> access <em>a</em> discounted rate <em>with</em> our complements.
 </p>
 
 <hr>
@@ -227,7 +227,7 @@ span.address a {
 </p>
 
 <p>
-  <em>The</em> gentleman <em>who</em> wishes <em>to</em> secure <em>pro</em> <em>tempore</em> use <em>of</em> <em>a</em> tuxedo <em>might</em> engage
+  <em>The</em> gentleman <em>who</em> wishes <em>to</em> secure <em>pro</em> <em>tempore</em> use <em>of</em> <em>a</em> tuxedo <em>might</em> engage <em>Messrs.</em>
 <a href="https://moss.co.uk/">Moss Bros</a> <span class="address">(<a href="https://www.moss.co.uk/store/202-moss-bros-high-holborn">High Holborn</a>, <a href="https://www.moss.co.uk/store/328-moss-jermyn-street">Jermyn Street</a>, <em>&amp;tc</em>.)</span>,
 <a href="https://www.oliverbrown.org.uk/">Oliver Brown</a> <span class="address">(<a href="https://www.oliverbrown.org.uk/pages/jermyn-street-location">Jermyn Street</a>)</span>,
 <a href="https://nealandpalmer.com/contact-us/"><em>Neal & Palmer</em></a> <span class="address">(<a href="https://nealandpalmer.com/contact-us/">Jermyn Street</a>)</span>,
