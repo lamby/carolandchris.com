@@ -36,6 +36,10 @@ body {
   margin-bottom: 100px;
 }
 
+.small-caps {
+  font-variant: small-caps;
+}
+
 @media (min-width: 768px) {
     .wrapper {
       width: 620px;
@@ -240,7 +244,7 @@ span.address a {
 <h2 id="venue">Venue</h2>
 
 <p>
-  <em>The</em> Gothic Revival S<sup>t</sup>. Pancras Renaissance Hotel &mdash; formerly <em>the</em> &lsquo;Midland Grand&rsquo; &mdash; <em>was</em> opened <em>on</em> 5<sup>th</sup> May 1873.
+  <em>The</em> Gothic Revival S<sup>t</sup>. Pancras Renaissance Hotel, formerly <em>the</em> &lsquo;Midland Grand&rsquo;, <em>was</em> opened <em>on</em> 5<sup>th</sup> May 1873, <em>i.e.</em> 151 years prior <em>to</em> <em>the</em> wedding day precisely.
 </p>
 
 <p class="text-center images">
@@ -285,6 +289,25 @@ span.address a {
 <h2 id="registry">Registry</h2>
 <p>
   Information regarding <em>an</em> optional registry <em>will</em> <em>be</em> sent closer <em>to</em> <em>the</em> wedding date.
+</p>
+
+<hr>
+
+<h2 id="boat-trip">Boat trip</h2>
+<p>
+  Guests <em>are</em> warmly invited <em>to</em> accompany <em>the</em> married couple <em>the</em> day following, <em>i.e.</em> Monday 6<sup>th</sup> May, <em>on a</em> short boat trip <em>through</em> London.
+</p>
+
+<p>
+  <em>This</em> casual <em>and</em> informal voyage <em>will</em> commence <em>from</em> <span class="address"><a href="https://maps.app.goo.gl/d7w7VH9xwui5pQwo9">Embankment Pier</a></span>, casting <em>off</em> punctually <em>at</em> <em>12:20&nbsp;PM</em> <em>and</em> disembarking 40 minutes hence <em>at</em> historic <span class="address"><a class="small-caps" href="https://maps.app.goo.gl/s1R5S2z1KZdambqbA">Greenwich</a></span>.
+</p>
+
+<p>
+  Neither prior reservations, bookings <em>nor</em> RSVP<em>s</em> <em>are</em> required <em>for</em> <em>this</em> public voyage <em>with</em> <em>the</em> presentation <em>of</em> <em>a</em> valid contactless <em>or</em> Oyster card.
+</p>
+
+<p class="text-center">
+    <span class="addess"><a href="https://www.thamesclippers.com/plan-your-journey/ticket-information">More&nbsp;information</a></span>
 </p>
 
 <hr>
