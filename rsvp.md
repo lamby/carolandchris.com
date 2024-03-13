@@ -295,15 +295,15 @@ span.address a {
 
 <h2 id="boat-trip">Boat trip</h2>
 <p>
-  Guests <em>are</em> warmly invited <em>to</em> accompany <em>the</em> married couple <em>the</em> day following, <em>i.e.</em> Monday 6<sup>th</sup> May, <em>on a</em> short boat trip <em>through</em> London.
+  Guests <em>are</em> warmly invited <em>to</em> accompany <em>the</em> married couple <em>the</em> day following, <em>i.e.</em> Monday 6<sup>th</sup> May, <em>on a</em> short boat trip <em>across</em> London.
 </p>
 
 <p>
-  <em>This</em> casual <em>and</em> informal voyage <em>will</em> commence <em>from</em> <span class="address"><a href="https://maps.app.goo.gl/d7w7VH9xwui5pQwo9">Embankment Pier</a></span>, casting <em>off</em> punctually <em>at</em> <em>12:20&nbsp;PM</em> <em>and</em> disembarking 40 minutes hence <em>at</em> historic <span class="address"><a class="small-caps" href="https://maps.app.goo.gl/s1R5S2z1KZdambqbA">Greenwich</a></span>.
+  <em>This</em> casual <em>and</em> informal voyage <em>will</em> commence <em>from</em> <span class="address"><a href="https://maps.app.goo.gl/d7w7VH9xwui5pQwo9">Embankment Pier</a></span>, <em>and</em> <em>will</em> cast <em>off</em> punctually <em>at</em> <em>12:20&nbsp;PM</em> <em>and</em> disembarking 40 minutes hence <em>at</em> historic <span class="address"><a class="small-caps" href="https://maps.app.goo.gl/s1R5S2z1KZdambqbA">Greenwich</a></span>.
 </p>
 
 <p>
-  Neither prior reservations, bookings <em>nor</em> RSVP<em>s</em> <em>are</em> required <em>for</em> <em>this</em> public voyage <em>with</em> <em>the</em> presentation <em>of</em> <em>a</em> valid contactless <em>or</em> Oyster card.
+  Neither <em>a</em> prior reservation, booking, <em>nor</em> RSVP <em>is</em> required <em>for</em> <em>this</em> public voyage <em>upon</em> presentation <em>of</em> <em>a</em> valid contactless <em>or</em> &lsquo;Oyster&rsquo; card <em>on</em> <em>the</em> day.
 </p>
 
 <p class="text-center">
