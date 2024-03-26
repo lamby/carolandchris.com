@@ -288,7 +288,7 @@ span.address a {
 
 <h2 id="registry">Registry</h2>
 <p>
-  Information regarding <em>an</em> optional registry <em>will</em> <em>be</em> sent closer <em>to</em> <em>the</em> wedding date.
+  Our optional registry <em>can</em> <em>be</em> found <em>at</em> <a href="https://www.hitchd.com/carolandchris">hitchd.com/carolandchris</a>.
 </p>
 
 <hr>
